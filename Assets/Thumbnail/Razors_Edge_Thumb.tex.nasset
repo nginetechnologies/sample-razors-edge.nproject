@@ -1,0 +1,111 @@
+{
+    "guid": "126c61b5-e07d-16a9-a3fe-353a486d954a",
+    "source": "Razors_Edge_Thumb.png",
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "resolution": [
+        420.0,
+        280.0
+    ],
+    "preset": 3,
+    "usage_flags": 6,
+    "bc_data": {
+        "format": 131,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 470400
+            },
+            {
+                "level": 1,
+                "offset": 470400,
+                "size": 117600
+            },
+            {
+                "level": 2,
+                "offset": 588000,
+                "size": 29400
+            },
+            {
+                "level": 3,
+                "offset": 617400,
+                "size": 7280
+            },
+            {
+                "level": 4,
+                "offset": 624680,
+                "size": 1768
+            },
+            {
+                "level": 5,
+                "offset": 626448,
+                "size": 416
+            },
+            {
+                "level": 6,
+                "offset": 626864,
+                "size": 96
+            },
+            {
+                "level": 7,
+                "offset": 626960,
+                "size": 24
+            },
+            {
+                "level": 8,
+                "offset": 626984,
+                "size": 4
+            }
+        ]
+    },
+    "astc_data": {
+        "format": 171,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 29680
+            },
+            {
+                "level": 1,
+                "offset": 29680,
+                "size": 7776
+            },
+            {
+                "level": 2,
+                "offset": 37456,
+                "size": 2016
+            },
+            {
+                "level": 3,
+                "offset": 39472,
+                "size": 560
+            },
+            {
+                "level": 4,
+                "offset": 40032,
+                "size": 192
+            },
+            {
+                "level": 5,
+                "offset": 40224,
+                "size": 32
+            },
+            {
+                "level": 6,
+                "offset": 40256,
+                "size": 16
+            },
+            {
+                "level": 7,
+                "offset": 40272,
+                "size": 16
+            },
+            {
+                "level": 8,
+                "offset": 40288,
+                "size": 16
+            }
+        ]
+    }
+}
